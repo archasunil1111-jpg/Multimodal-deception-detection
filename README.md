@@ -54,6 +54,16 @@ python src/main.py
 
 ---
 
+## Screenshots
+
+### Real-Time Analysis Dashboard
+![Dashboard](screenshots/output.png)
+
+### Hardware Circuit Diagram
+![Circuit Diagram](screenshots/pulse_sensor_cd.jpg)
+
+---
+
 ##  Future Scope
 
 * Deep learning integration
