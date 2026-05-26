@@ -8,6 +8,26 @@ Unlike traditional single-signal systems, this project combines computer vision 
 
 The system is designed as a prototype for intelligent behavioral analysis applications such as security screening, human-computer interaction, and assistive monitoring systems.
 
+## Problem Statement
+
+Single-source emotion detection systems (only facial expression or only physiological data) often fail in real-world scenarios due to unreliable or incomplete signals.
+
+This project addresses this limitation by:
+
+Combining multiple behavioral indicators
+Performing real-time analysis
+Detecting inconsistencies across multiple modalities
+
+## System Features
+Eye blink rate detection
+Eye gaze tracking
+Head pose estimation
+Shoulder movement analysis
+Heart rate monitoring via Arduino sensor
+Baseline calibration for personalized analysis
+Real-time behavioral consistency evaluation
+Live visualization dashboard using Tkinter
+
 ##  Technologies Used
 
 * Python
